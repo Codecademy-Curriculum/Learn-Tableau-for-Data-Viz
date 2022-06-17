@@ -12,7 +12,7 @@ The Datasets folder in this repo contains the following datasets. They are organ
 
 🚨 DO NOT download these sources to use in your projects, as the data at these links are not all exactly the same as the data we'll use in the course. In some cases, we've cleaned data to make it usable in Tableau.
 
-Duplicate datasets are shown here but appear only once in the Download folder. 
+Duplicate datasets are shown here but appear only once in the Datasets folder. 
 
 #### Lesson 1: 📋 Data Setup in Tableau
 * Tree Census dataset ([original source](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35)) (.csv) & [Data Dictionary](https://static-assets.codecademy.com/Courses/data-viz-with-tableau/1-data/StreetTreeCensus2015TreesDataDictionary20161102.pdf)
