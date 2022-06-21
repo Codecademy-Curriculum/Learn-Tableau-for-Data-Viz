@@ -29,12 +29,12 @@ Duplicate datasets are shown here but appear only once in the Datasets folder.
 * Rotten Tomatoes dataset ([original source](https://public.tableau.com/s/sites/default/files/media/HollywoodsMostProfitableStories.csv) found at [Tableau Public resources](https://public.tableau.com/en-us/s/resources) > Sample Data > Hollywood's Most Profitable Stories) (.csv)
 * Volcanoes dataset (original source downloaded from [Tableau Public resources](https://public.tableau.com/en-us/s/resources) > Sample Data > Significant Volcanic Eruptions)(.xlsx)
 
-* [reference Tableau Public workbook - Rotten Tomatoes]()
-* [reference Tableau Public workbook - Volcanoes]()
+* [reference Tableau Public workbook - Rotten Tomatoes](https://public.tableau.com/app/profile/codecademy/viz/RottenTomatoesInsights-LearnTableauforDataVisualization/GoodDashboard)
+* [reference Tableau Public workbook - Volcanoes](https://public.tableau.com/app/profile/codecademy/viz/DeadlyVolcanoes-LearnTableauforDataVisualization_16554080369950/GoodPositioning)
 
 #### Project: 🌳💸 NYC Tree Census & Income (Part II)
 * same data as Part I
-* [reference Tableau Public workbook - Money and Trees in NYC]()
+* [reference Tableau Public workbook - Money and Trees in NYC](https://public.tableau.com/app/profile/codecademy/viz/NYCTreeCensusIncomePartII-LearnTableauforDataVisualization/DashboardV2)
 
 #### Capstone Project: ✈️ Wildlife Airstrikes 
 * Federal Aviation Administration (FAA) Wildlife Airstrikes (original source downloaded from [Tableau Public resources](https://public.tableau.com/en-us/s/resources) > Sample Data > FAA Wildlife Strikes, 2015)(.xlsx)
