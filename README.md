@@ -8,7 +8,7 @@ Skip the rest of this and simply **download the Datasets folder** and get back t
 ____
 📔 **For more info on this repository, read on...**
 
-The Datasets folder in this repo contains the following datasets. They are organized here by their place in the course, with links to orginal sources for your reference. 
+The Datasets folder in this repo contains the following datasets. They are organized here by their place in the course, with links to orginal sources for your reference. A list of our changes to datasets can be found in the Datasets folder **metadata.md** document.
 
 🚨 DO NOT download these sources to use in your projects, as the data at these links are not all exactly the same as the data we'll use in the course. In some cases, we've cleaned data to make it usable in Tableau.
 
