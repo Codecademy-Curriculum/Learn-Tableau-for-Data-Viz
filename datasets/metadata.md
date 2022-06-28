@@ -18,7 +18,7 @@ No changes were made to this data after downloading from the original source.
 No changes were made to this data after downloading from the original source.
 
 #### FAA Wildlife Strikes
-
+No changes were made to this data after downloading from the original source. However, when aggregating by year in Tableau, we filtered out 2015 data as it contains records from only the first half of that year. 
 
 #### Passenger Counts (2014)
-We pulled this list from a Wikipedia source and made XYZ changes. 
+We pulled this list from a Wikipedia source and made no changes. In Tableau, we often filtered for the top 20 airports for better readability, while this is a list of 64.
