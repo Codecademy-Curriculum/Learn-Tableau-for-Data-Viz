@@ -9,7 +9,7 @@ After downloading this dataset, we deleted the following columns to reduce file 
 We pulled this list from a Wikipedia source and made XYZ changes. 
 
 #### NYC Income (2015)
-We made a custom query of all NYC zip codes using ______ website. No changes were made to this data after downloading from the original source.
+We made a [custom query of all NYC zip codes](https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0500000US36005%248600000,36047%248600000,36061%248600000,36081%248600000,36085%248600000&tid=ACSST5Y2015.S1901) using the United States Census Bureau website. Several changes were made to this data after downloading from the original source to make the file smaller and more manageable in Tableau. We deleted all columns except a geographic identifier, zip code, and 6 income-related fields: mean, median and total household income estimates, and margin of error for each income estimate. We also cleaned the data: removed the string `ZCTA5` from all zip code fields, removed stray characters like "+" and "!", and replaced Census Bureau abbreviations in the first row with more readable column names. 
 
 #### Rotten Tomatoes
 No changes were made to this data after downloading from the original source.
