@@ -18,7 +18,7 @@ No changes were made to this data after downloading from the original source.
 No changes were made to this data after downloading from the original source.
 
 #### FAA Wildlife Strikes
-After downloading from the original source, we created a new `Airport Code` field without the "K" at the beginning -- this allows us to join this dataset to the Passenger Count dataset on the `IATA code` field. When aggregating by year in Tableau, we filter out 2015 data as it contains records from only the first half of that year. 
+After downloading from the original source, we modified the `Airport Code` field to remove the "K" (i.e. changing codes from "KLGA" to "LGA") -- this allows us to join this dataset to the Passenger Count dataset on the `IATA code` field. When aggregating by year in Tableau, we filter out 2015 data as it contains records from only the first half of that year. 
 
 #### Passenger Counts (2014)
 We pulled this list from a [Wikipedia source](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic_(2010–2015)) and filtered on US airports. We cut several US airports that were on the list but did not have passenger counts, bringing the full list from 64 to 58 airports.
